@@ -1,0 +1,334 @@
+martin1921electrical:
+  type: book
+  title: The Electrical Transmission of Photographs
+  author: Martin, Marcus J
+  date: 1921
+  publisher: Sir I. Pitman & sons, Limited
+buntz2005:
+  type: book
+  title: Twisted Nematic Liquid Crystal Displays (TN-LCDs), an invention from Basel with global effects
+  author: Buntz, Gerhard H.
+  date: 2005
+Lancaster1973:
+  type: article
+  title: TV Writer
+  author: Lancaster, Don
+  date: 1973
+  parent:
+    type: periodical
+    title: Radio-Electronics
+    publisher: Gernsback Publication, Inc
+Faraday1838-fh:
+  type: article
+  title: '{VIII}. Experimental researches in electricity.—thirteenth series'
+  author: Faraday, M
+  date: 1838-12
+  page-range: 125–168
+  abstract: 1480. Let us now direct our attention to the general difference of the positive and negative disruptive discharge, with the object of tracing, as far as possible, the cause of that difference, and whether it depends on the charged conductors principally, or on the interposed dielectric; and as it appears to be great in air and nitrogen (1476.), let us observe the phenomena in air first. 1481. The general case is best understood by a reference to surfaces of considerable size rather than to points, which involve (as a secondary effect) the formation of currents (1562.). My investigation, therefore, was carried on with balls and terminations of different diameters, and the following are some of the principal results.
+  parent:
+    type: periodical
+    title: Philos. Trans. R. Soc. Lond.
+    publisher: The Royal Society
+    issue: 0
+    volume: 128
+Crookes1879-gi:
+  type: article
+  title: V. The Bakerian {Lecture.—On} the illumination of lines of molecular pressure, and the trajectory of molecules
+  author: Crookes, W
+  date: 1879-12
+  page-range: 135–164
+  abstract: '486. When the spark from a good induction coil traverses a glass tube containing a rarefied gas, certain phenomena are observed which vary greatly with the kind of gas and the degree of exhaustion. There is one appearance, however, which is constant in all the gases which I have examined, and within very wide limits of pressure, viz.: the well-known dark space round the negative pole. I have long been impressed with the idea that this dark space coating the pole was in some way related to the layer of molecular pressure causing movement in the radiometer, and the following experiments were instituted with the object of testing this hypothesis. A glass bulb (fig. 1) was furnished w ith platinum wire terminals sealed into the glass, ending outside in loops and. inside in aluminium poles; the positive pole being a wire and the negative pole a disk about 10 millims. diameter, bare in front and covered with mica at the back. The bulb being full of dry air and connected with the Sprengel pump, was exhausted. An induction coil capable of giving sparks 68 millims. long in air when actuated by 3 Grove''s cells, was connected with the terminals, the disk being always negative except when otherwise stated.'
+  parent:
+    type: periodical
+    title: Philos. Trans. R. Soc. Lond.
+    publisher: The Royal Society
+    issue: 0
+    volume: 170
+Thomson1897-ex:
+  type: article
+  title: '{XL}. Cathode Rays'
+  author: Thomson, J J
+  date: 1897-10
+  page-range: 293–316
+  parent:
+    type: periodical
+    title: Lond. Edinb. Dublin Philos. Mag. J. Sci.
+    publisher: Informa UK Limited
+    issue: 269
+    volume: 44
+Braun1897:
+  type: article
+  title: Ueber ein Verfahren zur Demonstration und zum Studium des zeitlichen Verlaufes variabler Ströme
+  author: Braun, Ferdinand
+  date: 1897-01
+  page-range: 552–559
+  url: http://dx.doi.org/10.1002/andp.18972960313
+  serial-number:
+    doi: 10.1002/andp.18972960313
+    issn: 1521-3889
+  parent:
+    type: periodical
+    title: Annalen der Physik
+    publisher: Wiley
+    issue: 3
+    volume: 296
+BIDWELL1908:
+  type: article
+  title: Telegraphic Photography and Electric Vision
+  author: BIDWELL, SHELFORD
+  date: 1908-06
+  page-range: 105–106
+  url: http://dx.doi.org/10.1038/078105a0
+  serial-number:
+    doi: 10.1038/078105a0
+    issn: 1476-4687
+  parent:
+    type: periodical
+    title: Nature
+    publisher: Springer Science, Business Media LLC
+    issue: 2014
+    volume: 78
+SWINTON1908:
+  type: article
+  title: Distant Electric Vision
+  author: SWINTON, A. A. CAMPBELL
+  date: 1908-06
+  page-range: 151
+  url: http://dx.doi.org/10.1038/078151a0
+  serial-number:
+    doi: 10.1038/078151a0
+    issn: 1476-4687
+  parent:
+    type: periodical
+    title: Nature
+    publisher: Springer Science, Business Media LLC
+    issue: 2016
+    volume: 78
+BIDWELL1907:
+  type: article
+  title: Practical Telephotography
+  author: BIDWELL, SHELFORD
+  date: 1907-08
+  page-range: 444–445
+  url: http://dx.doi.org/10.1038/076444c0
+  serial-number:
+    doi: 10.1038/076444c0
+    issn: 1476-4687
+  parent:
+    type: periodical
+    title: Nature
+    publisher: Springer Science, Business Media LLC
+    issue: 1974
+    volume: 76
+Johnson1922:
+  type: article
+  title: A Low Voltage Cathode Ray Oscillograph
+  author: Johnson, J. B.
+  date: 1922-09
+  page-range: 701
+  url: http://dx.doi.org/10.1364/JOSA.6.000701
+  serial-number:
+    doi: 10.1364/josa.6.000701
+    issn: 0030-3941
+  parent:
+    type: periodical
+    title: Journal of the Optical Society of America
+    publisher: Optica Publishing Group
+    issue: 7
+    volume: 6
+高柳健次郎1928television:
+  type: article
+  title: Television の實驗
+  author: 高柳健次郎
+  date: 1928
+  page-range: 932–942
+  parent:
+    type: periodical
+    title: 電氣學會雜誌
+    publisher: 一般社団法人 電気学会
+    issue: 482
+    volume: 48
+Farnsworth1931:
+  type: article
+  title: Scanning With An Electric Pencil
+  author: T, Philo, Farnsworth
+  date: 1931-04
+  page-range: 48–51
+  parent:
+    type: periodical
+    title: Television News
+    publisher: Insuline Corporation of America
+Reinitzer1888:
+  type: article
+  title: Beiträge zur Kenntniss des Cholesterins
+  author: Reinitzer, Friedrich
+  date: 1888-12
+  page-range: 421–441
+  url: http://dx.doi.org/10.1007/BF01516710
+  serial-number:
+    doi: 10.1007/bf01516710
+    issn: 1434-4475
+  parent:
+    type: periodical
+    title: Monatshefte für Chemie - Chemical Monthly
+    publisher: Springer Science, Business Media LLC
+    issue: 1
+    volume: 9
+Lehmann1889:
+  type: article
+  title: Über fliessende Krystalle
+  author: Lehmann, O.
+  date: 1889-07
+  page-range: 462–472
+  url: http://dx.doi.org/10.1515/zpch-1889-0434
+  serial-number:
+    doi: 10.1515/zpch-1889-0434
+    issn: 0942-9352
+  parent:
+    type: periodical
+    title: Zeitschrift für Physikalische Chemie
+    publisher: Walter de Gruyter GmbH
+    issue: 1
+Heilmeier1968:
+  type: article
+  title: 'Dynamic scattering: A new electrooptic effect in certain classes of nematic liquid crystals'
+  author:
+  - Heilmeier, G.H.
+  - Zanoni, L.A.
+  - Barton, L.A.
+  date: 1968
+  page-range: 1162–1171
+  url: http://dx.doi.org/10.1109/proc.1968.6513
+  serial-number:
+    doi: 10.1109/proc.1968.6513
+    issn: 0018-9219
+  parent:
+    type: periodical
+    title: Proceedings of the IEEE
+    publisher: Institute of Electrical, Electronics Engineers (IEEE)
+    issue: 7
+    volume: 56
+Weimer1962:
+  type: article
+  title: The TFT A New Thin-Film Transistor
+  author: Weimer, Paul
+  date: 1962-06
+  page-range: 1462–1469
+  url: http://dx.doi.org/10.1109/JRPROC.1962.288190
+  serial-number:
+    doi: 10.1109/jrproc.1962.288190
+    issn: 0096-8390
+  parent:
+    type: periodical
+    title: Proceedings of the IRE
+    publisher: Institute of Electrical, Electronics Engineers (IEEE)
+    issue: 6
+    volume: 50
+Kawamoto2012a:
+  type: article
+  title: The history of liquid-crystal display and its industry
+  author: Kawamoto, Hirohisa
+  date: 2012-09
+  page-range: 1–6
+  url: http://dx.doi.org/10.1109/HISTELCON.2012.6487587
+  serial-number:
+    doi: 10.1109/histelcon.2012.6487587
+  parent:
+    type: proceedings
+    title: 2012 Third IEEE HISTory of ELectro-technology CONference (HISTELCON)
+    publisher: IEEE
+Crookes1879a:
+  type: book
+  title: On radiant matter a lecture delivered to the British Association for the Advancement of Science, at Sheffield, Friday, August 22, 1879 / by William Crookes.
+  author: Crookes, William
+  date: 1879
+  publisher: '[s.n.],'
+  url: http://dx.doi.org/10.5962/bhl.title.32913
+  serial-number:
+    doi: 10.5962/bhl.title.32913
+Langmuir1928:
+  type: article
+  title: Oscillations in Ionized Gases
+  author: Langmuir, Irving
+  date: 1928-08
+  page-range: 627–637
+  url: http://dx.doi.org/10.1073/pnas.14.8.627
+  serial-number:
+    doi: 10.1073/pnas.14.8.627
+    issn: 1091-6490
+  parent:
+    type: periodical
+    title: Proceedings of the National Academy of Sciences
+    publisher: Proceedings of the National Academy of Sciences
+    issue: 8
+    volume: 14
+Bernanose1953:
+  type: article
+  title: 'Électroluminescence organique : étude du mode d’émission'
+  author:
+  - Bernanose, André
+  - Vouaux, Paul
+  date: 1953
+  page-range: 261–263
+  url: http://dx.doi.org/10.1051/jcp/1953500261
+  serial-number:
+    doi: 10.1051/jcp/1953500261
+    issn: 0021-7689
+  parent:
+    type: periodical
+    title: Journal de Chimie Physique
+    publisher: EDP Sciences
+    volume: 50
+zworykin1928:
+  type: patent
+  title: Television System
+  author: K, VLADIMIR, ZWORYKIN
+  date: 1925
+  issue: US-1691324-A
+Farnsworth1927:
+  type: patent
+  title: Television System
+  author: T, Philo, Farnsworth
+  date: 1927
+  issue: US1773980A
+Lawrence1951:
+  type: patent
+  title: ' Cathode ray focusing apparatus'
+  author: O, Ernest, Lawrence
+  date: 1951
+  issue: US2692532A
+Helfrich1970:
+  type: patent
+  title: Lichtsteuerzelle
+  author: O, Wolfgang, Helfrich
+  date: 1970
+  issue: CH532261
+BITZER1971:
+  type: patent
+  title: GASEOUS DISPLAY AND MEMORY APPARATUS
+  author: BITZER, DONALD
+  date: 1971
+  issue: US-3559190-A
+Kawamoto2012:
+  type: article
+  title: The Inventors of TFT Active-Matrix LCD Receive the 2011 IEEE Nishizawa Medal
+  author: Kawamoto, Hiro
+  date: 2012-01
+  page-range: 3–4
+  url: http://dx.doi.org/10.1109/JDT.2011.2177740
+  serial-number:
+    doi: 10.1109/jdt.2011.2177740
+    issn: 1558-9323
+  parent:
+    type: periodical
+    title: Journal of Display Technology
+    publisher: Institute of Electrical, Electronics Engineers (IEEE)
+    issue: 1
+    volume: 8
+wiki:Cathode-ray_tube:
+  type: misc
+  title: '{Cathode-ray tube} — {W}ikipedia{,} The Free Encyclopedia'
+  author: Wikipedia
+  date: 2024
+  note: \\url\{http://en.wikipedia.org/w/index.php?title=Cathode-ray%20tube&oldid=1254887796\}
+}
